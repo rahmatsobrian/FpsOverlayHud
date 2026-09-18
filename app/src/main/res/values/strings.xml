@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Perf HUD</string>
+    <string name="tile_label">Perf HUD</string>
+    <string name="notif_running">HUD is running</string>
+    <string name="notif_stop">Stop</string>
+    <string name="notif_lock_toggle">Lock/Unlock</string>
+</resources>
